@@ -17,7 +17,7 @@ export default function WhoAmI() {
   const content = {
     es: {
       title: '¿Quién soy?',
-      text1: 'Mi nombre es Hezron Araya Castañeda. Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, sede Nicoya. Tengo 22 años y estoy cursando mi cuarto año de carrera.Me apasiona el desarrollo backend, manejo frontend y bases de datos, y también tengo conocimientos en inteligencia artificial. Actualmente estudio inglés. Soy de Costa Rica y aspiro a mejorar constantemente, dedicarme al diseño de aplicaciones, trabajando con paciencia y fomentando un buen trabajo en equipo.',
+      text1: 'Mi nombre es Hezron Araya Castañeda. Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, sede Nicoya. Tengo 22 años y estoy cursando mi cuarto año de carrera. Me apasiona el desarrollo backend, manejo frontend y bases de datos, y también tengo conocimientos en inteligencia artificial. Actualmente estudio inglés. Soy de Costa Rica y aspiro a mejorar constantemente, dedicarme al diseño de aplicaciones, trabajando con paciencia y fomentando un buen trabajo en equipo.',
     },
     en: {
       title: 'Who am I?',
