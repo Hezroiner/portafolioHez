@@ -21,7 +21,7 @@ export default function WhoAmI() {
     },
     en: {
       title: 'Who am I?',
-      text1: 'My name is Hezron Araya Castañeda. I am a Computer Science student at the Universidad Nacional of Costa Rica, Nicoya campus. I am 22 years old and currently in my fourth year of studies. I’m passionate about backend development, I handle frontend and databases, and I also have knowledge in artificial intelligence. I am currently studying English. I’m from Costa Rica and I strive to improve constantly, focusing on application design, working patiently, and encouraging strong teamwork.',
+      text1: 'My name is Hezron Araya Castañeda. I am a Computer Science student at Universidad Nacional of Costa Rica, Nicoya campus. I am 22 years old and currently in my fourth year of studies. I’m passionate about backend development, I handle frontend and databases, I also have knowledge in artificial intelligence. I am currently studying English. I’m from Costa Rica and I strive to improve constantly, focusing on application design, working patiently, and encouraging strong teamwork.',
     }
   }
 
